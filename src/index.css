@@ -242,4 +242,8 @@ a {
   .projects .cards {
     grid-template-columns: 1fr;
   }
+  
+  .projects .cards p {
+    font-size: 15px;
+  }
 }
